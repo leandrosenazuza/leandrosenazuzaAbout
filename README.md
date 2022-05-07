@@ -1,4 +1,4 @@
-### Hi there 👋 
+### Hi there, I'm Leandro S. Zuza 👋 
 
 - 🔭 I’m currently working with bug fix and IT Support (Java, PL/SQL and Spring Boot). 
 - 🌱 I’m currently learning more Java/Python and Spring Boot framework.
