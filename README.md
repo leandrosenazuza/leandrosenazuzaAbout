@@ -16,7 +16,6 @@
   <li> ⚡ Fun fact: I'm graduate in Food Engineer, but I rather to change my professinal area. 
  </ul>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leandrosenazuza&theme=dracula&show_icons=true)
 
 <div>
 
