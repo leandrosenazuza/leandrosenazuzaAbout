@@ -1,15 +1,15 @@
 <body>
   
-  ### Hi there, I'm <b>Leandro S. Zuza</b> 👋 
+  ### Olá! Me chamo <b>Leandro S. Zuza</b> 👋 
   
 <div>
    <img height=150 width=150 src="https://acegif.com/wp-content/uploads/cat-typing-2.gif" />
 </div>
   
 <ul type="circle">
-  <li> 🔭 Trabalho com desenvovlvimento Java / Spring Boot.
+  <li> 🔭 Formado em engenharia, faço mestrado em computação. Trabalho com desenvovlvimento Java / Spring Boot.
   <li> 🌱 Cada vez mais, estou aprendendo Java/Python and Spring Boot.
-   <li> 📫 Como me achar? Segue meu e-mail: leandrosenazuza@gmail.com e meu celular: +55 34 9-9238-3934 
+  <li> 📫 Como me achar? Segue meu e-mail: leandrosenazuza@gmail.com e meu celular: +55 34 9-9238-3934 
  </ul>
 
 <div>
