@@ -19,10 +19,10 @@
 </div>
 
 <div>
-  <hr>
-  Bora codar!
-  </hr>
+ 
+  <p>Bora codar!<br/>
    <img height=150 width=150 src="https://acegif.com/wp-content/uploads/cat-typing-2.gif" />
+  </p>  
 </div>
 </body>
 
