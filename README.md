@@ -2,9 +2,7 @@
   
   ### Olá! Me chamo <b>Leandro S. Zuza</b> 👋 
   
-<div>
-   <img height=150 width=150 src="https://acegif.com/wp-content/uploads/cat-typing-2.gif" />
-</div>
+
   
 <ul type="circle">
   <li> 🔭 Formado em engenharia, faço mestrado em computação. Trabalho com desenvovlvimento Java / Spring Boot.
@@ -20,5 +18,9 @@
   <img alight=center alt="ZuzaJava" height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 </div>
 
+<div>
+  Bora codar!
+   <img height=150 width=150 src="https://acegif.com/wp-content/uploads/cat-typing-2.gif" />
+</div>
 </body>
 
