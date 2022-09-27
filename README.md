@@ -20,8 +20,9 @@
 
 <div>
  
-  <p>Bora codar!<br/>
+  <p><br/>Bora codar!<br/>
    <img height=150 width=150 src="https://acegif.com/wp-content/uploads/cat-typing-2.gif" />
+    <br/>
   </p>  
 </div>
 </body>
