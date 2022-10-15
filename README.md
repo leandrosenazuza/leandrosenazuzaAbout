@@ -1,6 +1,6 @@
 <body>
   
-  ### Olá! Me chamo <b>Leandro S. Zuza</b> 👋 
+  ### Olá! Me chamo <b>Leandro Sena Zuza</b> 👋 
   
 
   
